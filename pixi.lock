@@ -1103,6 +1103,8 @@ packages:
   name: marimo
   version: 0.17.2
   sha256: d81b66fd7b9230f46e084209d14ea657198fa4a86285c07a2e1956d761d985cd
+  version: 0.17.2
+  sha256: 280dfd5cadc77d446c74759b026b051a4d59f4941cceb48a9311d23119528b7f
   requires_dist:
   - click>=8.0,<9
   - jedi>=0.18.0
